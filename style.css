@@ -1,0 +1,16 @@
+body {
+    background-color: #92a8d1;
+  }
+
+.card {
+      background-color: #C1DFF0;
+  }
+
+  ::placeholder{
+      color:#000;
+  }
+  
+
+  #item-list .collection{
+    background-color: #000;
+  }
